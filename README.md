@@ -2,10 +2,6 @@
 
 Simple watherapi (https://github.com/weatherapicom) ruby gem
 
-TODO: Delete this and the text below, and describe your gem
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/weather_api_ruby`. To experiment with that code, run `bin/console` for an interactive prompt.
-
 ## Usage
 
 Get your weatherapi api key from https://www.weatherapi.com/. Run `bundle console`, then
